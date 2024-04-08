@@ -7,7 +7,7 @@
   "description": "This is my final project such as a fully functional e-com website with responsiveness.",
   "main": "app.js",
   "scripts": {
-    "build": "node app.js"
+    "start": "node app.js"
   },
   "author": "Ashish Pal",
   "license": "ISC",
